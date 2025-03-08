@@ -10,3 +10,6 @@ Error-Free Performance: Simple and clean code with no bugs.
 
 Deploy link : todo-list-iota-jade-51.vercel.app
 
+ Running Instructions
+To run the To-Do List App, first ensure you have Node.js installed. Clone the repository using git clone and navigate into the project folder. Install the required dependencies by running npm install. Once the installation is complete, start the development server with npm run dev, which will launch the app at http://localhost:5173/. For a production-ready build, use npm run build to generate optimized files in the dist/ folder. You can preview the built app locally using npm run preview. 
+

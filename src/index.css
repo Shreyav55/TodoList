@@ -1,0 +1,26 @@
+@media (max-width: 768px) {
+    .navbar {
+      height: 50px; /* Reduce navbar height */
+    }
+  
+    .todo-container {
+      width: 90%; /* Adjust width for smaller screens */
+    }
+  
+    input {
+      width: 100%;
+      padding: 10px;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+  
+    button {
+      width: 100%;
+      padding: 10px;
+      background-color: orange;
+      color: white;
+      border-radius: 5px;
+      margin-top: 10px;
+    }
+  }
+  
